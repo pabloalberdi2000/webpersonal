@@ -46,7 +46,7 @@ export default function Hero() {
             <ArrowRight className="w-5 h-5 group-hover:translate-x-2 transition-transform" />
           </a>
           <a
-            href="https://wa.me/34XXXXXXXXX"
+            href="https://wa.me/34658187924"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-secondary flex items-center gap-2"
@@ -58,7 +58,7 @@ export default function Hero() {
         {/* Trust indicators */}
         <div className={`mt-16 pt-16 border-t border-gray-300/50 flex flex-col md:flex-row justify-around items-center gap-8 transition-all duration-700 ${isLoaded ? 'animate-fade-in-up' : 'opacity-0'}`} style={{ animationDelay: '0.5s' }}>
           <div className="text-center">
-            <div className="text-3xl font-bold text-black">10+</div>
+            <div className="text-3xl font-bold text-black">4+</div>
             <p className="text-gray-600 text-sm">Años de Experiencia IT</p>
           </div>
           <div className="text-center">

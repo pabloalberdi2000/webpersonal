@@ -14,7 +14,7 @@ export default function SprintEffect() {
     {
       icon: <Users className="w-8 h-8" />,
       title: 'Asesoramiento Experto',
-      description: '10+ años de experiencia en transformación digital. Te guiamos con decisiones que funcionan.',
+      description: '4+ años de experiencia en transformación digital. Te guiamos con decisiones que funcionan.',
       details: [
         'Análisis profundo de tu negocio',
         'Recomendaciones basadas en casos reales',

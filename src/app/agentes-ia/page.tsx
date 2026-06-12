@@ -14,17 +14,7 @@ export default function AgentesIAPage() {
   return (
     <>
       <Navigation />
-      <main className="bg-white">
-        {/* Hero reducido */}
-        <section className="section-padding pt-32 text-center">
-          <h1 className="text-5xl md:text-6xl font-black mb-6">
-            Agentes IA <span className="text-gradient">Inteligentes</span>
-          </h1>
-          <p className="text-xl text-gray-700 max-w-2xl mx-auto">
-            Automatización, análisis y conversaciones inteligentes. IA que trabaja para ti 24/7.
-          </p>
-        </section>
-
+      <main className="bg-white pt-24">
         <AIAgents />
         <Contact />
       </main>

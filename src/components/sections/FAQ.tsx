@@ -124,7 +124,7 @@ export default function FAQ() {
               Escribir Mensaje
             </a>
             <a
-              href="https://wa.me/34XXXXXXXXX"
+              href="https://wa.me/34658187924"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary inline-block"

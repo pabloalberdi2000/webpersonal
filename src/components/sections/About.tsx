@@ -141,7 +141,7 @@ export default function About() {
               <p className="text-gray-700 font-semibold">Proyectos Completados</p>
             </div>
             <div className="text-center p-8 bg-gray-50 rounded-xl border border-gray-300">
-              <div className="text-5xl font-black text-black mb-2">10+</div>
+              <div className="text-5xl font-black text-black mb-2">4+</div>
               <p className="text-gray-700 font-semibold">Años de Experiencia</p>
             </div>
             <div className="text-center p-8 bg-gray-50 rounded-xl border border-gray-300">

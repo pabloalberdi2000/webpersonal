@@ -125,8 +125,8 @@ export default function AIAgents() {
         </div>
 
         {/* Key Features */}
-        <div className="bg-gradient-to-r from-slate-800/50 to-slate-900 border-2 border-black/30 rounded-2xl p-12 mb-16">
-          <h3 className="text-3xl font-bold text-center mb-12">
+        <div className="bg-gray-50 border-2 border-gray-300 rounded-2xl p-12 mb-16">
+          <h3 className="text-3xl font-bold text-center mb-12 text-black">
             ¿Cómo Montamos Agentes IA?
           </h3>
 
@@ -142,7 +142,7 @@ export default function AIAgents() {
             </div>
 
             <div className="text-center">
-              <div className="w-12 h-12 rounded-lg bg-gray-800/10 flex items-center justify-center mx-auto mb-4 text-gray-700">
+              <div className="w-12 h-12 rounded-lg bg-black/10 flex items-center justify-center mx-auto mb-4 text-black">
                 <Cpu className="w-6 h-6" />
               </div>
               <h4 className="font-bold text-black mb-2">2. Desarrollo & Entrenamiento</h4>
@@ -178,7 +178,7 @@ export default function AIAgents() {
               <Zap className="w-5 h-5" />
             </a>
             <a
-              href="https://wa.me/34XXXXXXXXX"
+              href="https://wa.me/34658187924"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary inline-flex items-center gap-2 justify-center"

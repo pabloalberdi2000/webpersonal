@@ -181,7 +181,7 @@ export default function Services() {
                 <span>Agendar Sesión Gratuita</span>
               </a>
               <a
-                href="https://wa.me/34XXXXXXXXX"
+                href="https://wa.me/34658187924"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-secondary inline-flex items-center gap-2 justify-center"

@@ -73,7 +73,7 @@ export default function Overview() {
         <div className="bg-black rounded-2xl p-12 text-white text-center">
           <div className="grid md:grid-cols-3 gap-8">
             <div>
-              <div className="text-5xl font-black mb-2">10+</div>
+              <div className="text-5xl font-black mb-2">4+</div>
               <p className="text-gray-300">Años de Experiencia</p>
             </div>
             <div>
